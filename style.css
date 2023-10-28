@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* hero background image */
+
+
+body {
+  margin: auto;
+  width: 50%;
+  background-color: #060e12; 
+  /*background-image: url("images/bg3.png");
+  object-fit: cover;*/
+  background-size: 100% 448px;*/
+  background-repeat: repeat;
+  color:#bce2f5;
+  text-align: center;
+}
+
+demodisplay {
+  width: 30%;
+}
+
+a:link {
+  color: #77d5d9;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #24cfd6;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #52f1f7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
